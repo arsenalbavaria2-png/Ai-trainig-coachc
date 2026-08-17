@@ -1,0 +1,139 @@
+{
+  "app": {
+    "title": "AI Boxing Trainer",
+    "subtitle": "Train like a champion",
+    "loading": "Loading...",
+    "start": "START WORKOUT",
+    "pause": "PAUSE",
+    "resume": "RESUME",
+    "end": "END WORKOUT",
+    "restart": "RESTART",
+    "skip": "SKIP",
+    "next": "NEXT",
+    "back": "BACK",
+    "settings": "SETTINGS",
+    "levels": "LEVELS",
+    "home": "HOME"
+  },
+  "onboarding": {
+    "welcome": "Welcome to AI Boxing Trainer!",
+    "description": "The revolutionary app that teaches you how to box using your phone's camera.",
+    "getStarted": "Get Started",
+    "selectLanguage": "Select your language",
+    "cameraPermission": "We need camera access to track your punches",
+    "allow": "Allow",
+    "deny": "Not Now"
+  },
+  "techniques": {
+    "jab": {
+      "name": "Jab",
+      "description": "A quick, straight punch with your lead hand. Fast and precise.",
+      "instruction": "Extend your lead arm straight forward, rotating your fist to land with knuckles. Snap it back quickly."
+    },
+    "cross": {
+      "name": "Cross",
+      "description": "A powerful straight punch with your rear hand. Uses body rotation for power.",
+      "instruction": "Rotate your hips and shoulders as you extend your rear arm straight forward. Full body power."
+    },
+    "hook": {
+      "name": "Hook",
+      "description": "A circular punch thrown with a bent arm, targeting the side of the head or body.",
+      "instruction": "Bend your elbow 90 degrees, swing horizontally with hip rotation. Lead with your elbow, not your fist."
+    },
+    "uppercut": {
+      "name": "Uppercut",
+      "description": "An upward punch aimed at the chin or solar plexus. Great for close range.",
+      "instruction": "Bend your knees, then drive upward with your rear hand, rotating your body. Like a shovel motion."
+    }
+  },
+  "levels": {
+    "title": "Select Level",
+    "level": "Level {{level}}",
+    "locked": "Locked",
+    "complete": "Complete",
+    "stars": "{{count}} stars",
+    "bestScore": "Best: {{score}}"
+  },
+  "workout": {
+    "score": "SCORE",
+    "combo": "COMBO",
+    "time": "TIME",
+    "targets": "TARGETS",
+    "punch": "PUNCH!",
+    "great": "GREAT!",
+    "perfect": "PERFECT!",
+    "miss": "MISS",
+    "hit": "HIT",
+    "newRecord": "NEW RECORD!",
+    "levelComplete": "LEVEL COMPLETE!",
+    "ready": "READY?",
+    "go": "GO!",
+    "warmup": "WARM UP",
+    "cooldown": "COOL DOWN",
+    "instruction": "Watch & Learn",
+    "practice": "Practice Mode",
+    "drill": "Drill Mode"
+  },
+  "summary": {
+    "title": "WORKOUT COMPLETE!",
+    "totalPunches": "Total Punches",
+    "accuracy": "Accuracy",
+    "calories": "Calories Burned",
+    "duration": "Duration",
+    "combos": "Combos",
+    "maxCombo": "Max Combo",
+    "stats": "Stats",
+    "again": "WORKOUT AGAIN",
+    "share": "SHARE RESULTS",
+    "save": "SAVE WORKOUT"
+  },
+  "streaks": {
+    "current": "Current Streak: {{days}} days",
+    "longest": "Longest Streak: {{days}} days",
+    "keepGoing": "Keep it going!",
+    "newStreak": "New streak started!",
+    "streakLost": "Streak lost",
+    "day": "day",
+    "days": "days"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "sound": "Sound Effects",
+    "cameraMirror": "Mirror Camera",
+    "difficulty": "Difficulty",
+    "easier": "Easier",
+    "harder": "Harder",
+    "reset": "Reset Progress",
+    "resetConfirm": "Are you sure you want to reset all progress?",
+    "yes": "Yes",
+    "no": "No",
+    "profile": "Profile",
+    "editName": "Edit Name",
+    "save": "Save"
+  },
+  "tips": [
+    "Stay hydrated! Drink water before, during, and after your workout.",
+    "Warm up properly to prevent injuries. Light cardio and stretching help.",
+    "Focus on technique over speed. Good form prevents injuries and builds better habits.",
+    "Breathe! Exhale with each punch to maximize power and endurance.",
+    "Rest is part of training. Your muscles grow during recovery, not during workouts.",
+    "Eat protein within 30 minutes after your workout to help muscle recovery.",
+    "Sleep 7-9 hours per night for optimal recovery and performance.",
+    "Stretch after your workout to improve flexibility and reduce soreness.",
+    "Listen to your body. If something hurts (not just tired muscles), take a break.",
+    "Consistency is key. Short, regular workouts are better than occasional long sessions."
+  ],
+  "errors": {
+    "camera": "Cannot access camera. Please enable camera permissions.",
+    "noHand": "No hand detected. Make sure your hands are visible to the camera.",
+    "tryAgain": "Try Again",
+    "unsupported": "Your browser may not support this feature."
+  },
+  "difficulty": {
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard",
+    "expert": "Expert"
+  }
+}
