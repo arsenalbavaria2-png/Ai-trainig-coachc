@@ -1,0 +1,139 @@
+{
+  "app": {
+    "title": "AI Boks Treneri",
+    "subtitle": "Chempionlar kabi mashq qiling",
+    "loading": "Yuklanmoqda...",
+    "start": "MASHQNI BOSHLASH",
+    "pause": "PAUZA",
+    "resume": "DAVOM ETISH",
+    "end": "TUGATISH",
+    "restart": "QAYTADAN BOSHLASH",
+    "skip": "OTKAZISH",
+    "next": "KEYINGI",
+    "back": "ORQAGA",
+    "settings": "SOZLAMALAR",
+    "levels": "DARAJALAR",
+    "home": "BOSH SAHIFA"
+  },
+  "onboarding": {
+    "welcome": "AI Boks Treneriga xush kelibsiz!",
+    "description": "Telefoningizning kamerasidan foydalanib, sizga boks o'rgatuvchi inqilobiy ilova.",
+    "getStarted": "Boshlash",
+    "selectLanguage": "Tilni tanlang",
+    "cameraPermission": "Zarbalarni kuzatish uchun kamera ruxsatini berishingiz kerak",
+    "allow": "Ruxsat berish",
+    "deny": "Hozir emas"
+  },
+  "techniques": {
+    "jab": {
+      "name": "Jab",
+      "description": "Oldingi qoʻl bilan tez, toʻgʻri zarba. Tez va aniq.",
+      "instruction": "Oldingi qoʻlingizni toʻgʻri oldinga choʻzib, barmoqlaringizni yumaloq aylantiring. Tezda qaytarib oling."
+    },
+    "cross": {
+      "name": "Cross",
+      "description": "Orqa qoʻl bilan kuchli toʻgʻri zarba. Kuch uchun tanani aylantiring.",
+      "instruction": "Sonlaringiz va yelkalaringizni aylantiring, orqa qoʻlingizni toʻgʻri oldinga choʻzib. Toʻliq tanani ishlatish."
+    },
+    "hook": {
+      "name": "Hook",
+      "description": "Bukilgan qoʻl bilan aylana zarba, bosh yoki tananing yon tomoniga.",
+      "instruction": "Tirnoqni 90 gradusga buking, sonlarni aylantirib gorizontal ravishda uring. Tirnoq bilan emas, dirsek bilan boshlang."
+    },
+    "uppercut": {
+      "name": "Uppercut",
+      "description": "Pastdan yuqoriga qilib beriladigan zarba, iygulga yoki quyosh plexigaga. Yaqin masofaga ajoyib.",
+      "instruction": "Tizzalaringizni buking, keyin orqa qoʻlingiz bilan yuqoriga koʻtarilib, tanani aylantiring. Qopqon harakati kabi."
+    }
+  },
+  "levels": {
+    "title": "Darajani tanlang",
+    "level": "Daraja {{level}}",
+    "locked": "Yopiq",
+    "complete": "Tugallangan",
+    "stars": "{{count}} yulduz",
+    "bestScore": "Rekord: {{score}}"
+  },
+  "workout": {
+    "score": "BALL",
+    "combo": "COMBO",
+    "time": "VAQT",
+    "targets": "NISHONLAR",
+    "punch": "ZARBA!",
+    "great": "AJOYIB!",
+    "perfect": "MUKAMMAL!",
+    "miss": "O'TKAZISH",
+    "hit": "ISOB",
+    "newRecord": "YANGI REKORD!",
+    "levelComplete": "DARAJA TUGALLANDI!",
+    "ready": "TAYYORMISIZ?",
+    "go": "BOSHLANG!",
+    "warmup": "ISINISH",
+    "cooldown": "SOVITISH",
+    "instruction": "Tomosha qiling va o'rganing",
+    "practice": "Mashq rejimi",
+    "drill": "Trenerlik rejimi"
+  },
+  "summary": {
+    "title": "MASHQ TUGALLANDI!",
+    "totalPunches": "Jami zarbalar",
+    "accuracy": "Aniqlik",
+    "calories": "Yong'oq kaloriya",
+    "duration": "Davomiylik",
+    "combos": "Combolar",
+    "maxCombo": "Maksimal combo",
+    "stats": "Statistika",
+    "again": "QAYTADAN MASHQ",
+    "share": "NATIJALARNI ULASHISH",
+    "save": "MASHQNI SAQLASH"
+  },
+  "streaks": {
+    "current": "Joriy seriya: {{days}} kun",
+    "longest": "Eng uzun seriya: {{days}} kun",
+    "keepGoing": "Davom eting!",
+    "newStreak": "Yangi seriya boshlandi!",
+    "streakLost": "Seriya uzildi",
+    "day": "kun",
+    "days": "kun"
+  },
+  "settings": {
+    "title": "So'zlamalar",
+    "language": "Til",
+    "sound": "Ovoz effekti",
+    "cameraMirror": "Kamera oynasi",
+    "difficulty": "Qiyinchilik",
+    "easier": "Osonroq",
+    "harder": "Qiyinroq",
+    "reset": "Progressni tiklash",
+    "resetConfirm": "Barcha progressni tiklamoqchimisiz?",
+    "yes": "Ha",
+    "no": "Yo'q",
+    "profile": "Profil",
+    "editName": "Ismni tahrirlash",
+    "save": "Saqlash"
+  },
+  "tips": [
+    "Suviy qoling! Mashqdan oldin, davomida va keyin suv iching.",
+    "Jarohatlarni oldini olish uchun to'g'ri isinish. Engil kardiogramma va cho'zish yordam beradi.",
+    "Tezlikdan ko'ra texnikaga e'tibor bering. Yaxshi shakl jarohatlarni oldini oladi va yaxshiroq odatlarni shakllantiradi.",
+    "Nafas oling! Har bir zarba bilan nafas chiqaring, kuch va chidamlilikni oshiring.",
+    "Dam olish mashqning bir qismidir. Muskularingiz dam olish davomida, mashq davomida emas, o'sadi.",
+    "Mashqdan so'ng 30 daqiqa ichida oqsil iste'mol qiling, muskullarning tiklanishiga yordam berish uchun.",
+    "Optimal tiklanish va unumdorlik uchun kechasi 7-9 soat uxlang.",
+    "Mashqdan so'ng cho'ziling, egiluvchanlikni yaxshilash va og'riqni kamaytirish uchun.",
+    "Tanangizni tinglang. Agar nima bo'lsa og'riqsa (faqat charchoq muskullari emas), dam oling.",
+    "Barqarorlik kalitdir. Qisqa, muntazam mashqlar uzok, kam mashqlardan yaxshiroqdir."
+  ],
+  "errors": {
+    "camera": "Kameraga kirish mumkin emas. Iltimos, kamera ruxsatlarini yoqing.",
+    "noHand": "Qo'l topilmadi. Qo'llaringiz kameraga ko'rinishi kerak.",
+    "tryAgain": "Qayta urinib ko'ring",
+    "unsupported": "Sizning brauzeringiz bu funksiyani qoʻllab-quvvatlamayapti."
+  },
+  "difficulty": {
+    "easy": "Oson",
+    "medium": "O'rta",
+    "hard": "Qiyin",
+    "expert": "Mutaxassis"
+  }
+}
